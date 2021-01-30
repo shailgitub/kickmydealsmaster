@@ -556,13 +556,6 @@
         font-size: 11px;
         margin: 1px 0 0px 0;
     }
-    
-    .product-box div.fixedhight {
-        display: block;
-        width: 100%;
-        height: 60px;
-        /* overflow: scroll; */
-    }
     /* .product-box a.amazonbutton {
         background-color: #ff8000;
                border: none;

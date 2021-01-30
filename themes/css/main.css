@@ -580,7 +580,7 @@
         cursor: pointer;
     }
     
-    .product-box font.amazonbuttonfontstyle {
+    .amazonbuttonfontstyle {
         color: black;
         font-weight: normal;
         font-size: 10 px;

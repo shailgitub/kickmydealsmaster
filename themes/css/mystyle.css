@@ -13,6 +13,12 @@
     cursor: pointer;
 }
 
+.product-box img.fixedhightimage {
+    display: inline-block;
+    width: 100%;
+    height: 150px;
+}
+
 .amazonbuttonfontstyle {
     color: black;
     font-weight: normal;
